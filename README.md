@@ -1,7 +1,7 @@
 # Asistente de Voz con IA (Python)
 
-Asistente de voz que escucha por micrófono, transcribe lo que dices, le pregunta a un modelo de OpenAI y responde en v
-Python con `SpeechRecognition`, `pyttsx3` y la API de OpenAI (Chat Completions).
+Asistente de voz que escucha por micrófono, transcribe lo que dices, le pregunta a un modelo de OpenAI y responde en voz alta.
+Construido en Python con `SpeechRecognition`, `pyttsx3` y la API de OpenAI (Chat Completions).
 
 ## Características
 
